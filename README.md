@@ -33,21 +33,13 @@ JavaScript: Adding interactivity, fetching exchange rate data from APIs, and han
 
 
 <h3>Usage</h3>
-<h4>Select Currencies:</h4>
+<h4>Select Currencies:</h4>Choose the base currency and the target currency from the dropdown menus.
 
-Choose the base currency and the target currency from the dropdown menus.
+<h4>Enter Amount:</h4>Enter the amount you want to convert.
 
-<h4>Enter Amount:</h4>
+<h4>Get Conversion Results:</h4>View the converted amount in the target currency.
 
-Enter the amount you want to convert.
-
-<h4>Get Conversion Results:</h4>
-
-View the converted amount in the target currency.
-
-<h4>Refresh Exchange Rates:</h4>
-
-Click the refresh button to update the exchange rates.
+<h4>Refresh Exchange Rates:</h4>Click the refresh button to update the exchange rates.
 
 <h3>API Integration</h3>
 This project uses the ExchangeRate-API to fetch real-time currency exchange rates.
